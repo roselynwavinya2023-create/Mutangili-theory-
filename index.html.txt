@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mutangili Theory of Gravity – David Mutangili</title>
+    <meta name="description" content="The Mutangili Theory proposes a unique concept of gravity as a force-fabric that interacts with mass and energy, offering a novel perspective in physics.">
+    <meta name="keywords" content="Mutangili Theory, Gravity, Physics, David Mutangili, Force-Fabric, Theoretical Physics">
+    <meta name="author" content="David Mutangili">
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: auto; padding: 20px;">
+    <header>
+        <h1 style="text-align:center;">Mutangili Theory of Gravity</h1>
+        <p style="text-align:center; font-style: italic;">By David Mutangili</p>
+    </header>
+
+    <section>
+        <h2>Abstract</h2>
+        <p>
+            The Mutangili Theory introduces a novel approach to understanding gravity. Unlike traditional views that describe gravity as the curvature of spacetime, this theory conceptualizes gravity as a force-fabric that interacts directly with mass and energy. Spacetime, in this model, acts as a "coat" surrounding the force-fabric, providing a framework for its effects. This perspective offers potential new insights into gravitational phenomena and the fundamental nature of forces in the universe.
+        </p>
+    </section>
+
+    <section>
+        <h2>Introduction</h2>
+        <p>
+            Gravity has traditionally been understood either as a force (Newtonian mechanics) or as the curvature of spacetime (Einstein's General Relativity). The Mutangili Theory proposes an alternative model: gravity is a dynamic force-fabric that envelops mass and energy, while spacetime serves as the medium, or coat, that manifests gravitational effects. This approach seeks to reconcile aspects of both classical and modern physics while introducing new theoretical perspectives.
+        </p>
+    </section>
+
+    <section>
+        <h2>The Core Concept</h2>
+        <p>
+            In this framework:
+            <ul>
+                <li><strong>Gravity</strong> = active force-fabric interacting with mass and energy.</li>
+                <li><strong>Spacetime</strong> = passive medium, acting like a coat around the force-fabric.</li>
+                <li>Effects typically attributed to spacetime curvature are reinterpreted as interactions within the force-fabric.</li>
+            </ul>
+        </p>
+    </section>
+
+    <section>
+        <h2>Potential Implications</h2>
+        <p>
+            The Mutangili Theory may open avenues for:
+            <ul>
+                <li>New ways to simulate gravitational phenomena.</li>
+                <li>Alternative approaches to quantum gravity research.</li>
+                <li>Rethinking the relationship between forces and the spacetime framework.</li>
+            </ul>
+        </p>
+    </section>
+
+    <section>
+        <h2>Conclusion</h2>
+        <p>
+            The Mutangili Theory of Gravity offers a unique perspective on one of the fundamental forces of nature. By viewing gravity as a force-fabric and spacetime as its coat, this model challenges conventional understanding and encourages further exploration in theoretical physics.
+        </p>
+    </section>
+
+    <footer style="text-align:center; margin-top:40px; font-size:0.9em; color:gray;">
+        &copy; 2025 David Mutangili. All rights reserved.
+    </footer>
+</body>
+</html>
